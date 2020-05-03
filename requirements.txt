@@ -6,3 +6,9 @@ flask_login
 flask_wtf
 python-dotenv
 email_validator
+flask-mail
+pyjwt
+flask-bootstrap
+flask-moment
+flask-babel
+click
