@@ -12,3 +12,5 @@ flask-bootstrap
 flask-moment
 flask-babel
 click
+guess_language-spirit
+requests
